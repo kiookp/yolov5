@@ -1,0 +1,7 @@
+path: C:\Users\Administrator\PycharmProjects\yolov5\yolov5\my
+train: ../train/images
+val: ../valid/images
+
+nc: 1
+names: ['xo']
+
